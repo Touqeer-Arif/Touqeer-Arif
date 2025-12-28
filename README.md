@@ -1,5 +1,5 @@
 -  Hi, I’m @Touqeer-Arif.
--  I’m a python coder and would love to work for companies.
+-  I’m a python coder.
 -  I’m currently looking forward to showcase my skills and provide with the best.
 -  I collaborate online with different companies and platforms.
 -  CONTACT: touqeerarif3110@gmail.com
