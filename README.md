@@ -1,8 +1,7 @@
--  Hi, I’m @Touqeer-Arif.
--  I’m a python coder.
--  I’m currently looking forward to showcase my skills and provide with the best.
--  I collaborate online with different companies and platforms.
--  CONTACT: touqeerarif3110@gmail.com
+I am a BS Artificial Intelligence student and possesses the ability to understand and write code in python and a quick problem solver.
+I have worked on projects that involved the use of database (MYSQL) and have also made projects that involved a user interface (i.e:GUI).
+I have also a strong foundation in Object-Oriented Programming(OOP) and data structures and currently I am working on strengthening my Machine Learning and Artificial Intelligence Skills.
+Email: touqeerarif3110@gmail.com
 
 <!---
 Touqeer-Arif/Touqeer-Arif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
